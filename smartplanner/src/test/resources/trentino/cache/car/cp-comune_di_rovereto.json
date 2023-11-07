@@ -1,0 +1,177 @@
+[ {
+  "id" : "Park Magazol",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Park Magazol",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Via Magazol - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "",
+  "availableSharingVehicles" : -1,
+  "posts" : 30,
+  "monitored" : false,
+  "position" : [ 45.89976680932436, 11.038395166397095 ],
+  "costDefinition" : ""
+}, {
+  "id" : "Brione",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Brione",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Piazza della Pace - Via L. Perosi - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "0.30",
+  "availableSharingVehicles" : -1,
+  "posts" : 102,
+  "monitored" : false,
+  "position" : [ 45.90403815286093, 11.044092178344727 ],
+  "costDefinition" : "€. 0,30/ora"
+}, {
+  "id" : "Ex Manifattura",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Ex Manifattura",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Viale Della Vittoria - Rovereto",
+  "parkAndRide" : true,
+  "fixedCost" : "0",
+  "availableSharingVehicles" : -1,
+  "posts" : 68,
+  "monitored" : false,
+  "position" : [ 45.8847996, 11.0236012 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "Parcheggio Centro",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Parcheggio Centro",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Via Alessandro Manzoni - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "0.60",
+  "availableSharingVehicles" : -1,
+  "posts" : 194,
+  "monitored" : true,
+  "position" : [ 45.892242816291905, 11.039151549339294 ],
+  "costDefinition" : "€. 0,60/ora"
+}, {
+  "id" : "Centro Storico",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Centro Storico",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Viale dei Colli - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "0.80",
+  "availableSharingVehicles" : -1,
+  "posts" : 143,
+  "monitored" : true,
+  "position" : [ 45.89030611816176, 11.04500412940979 ],
+  "costDefinition" : "€. 0,80/ora"
+}, {
+  "id" : "A.S.M.",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "A.S.M.",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Piazzale ex-A.S.M - Via Manzoni - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "0",
+  "availableSharingVehicles" : -1,
+  "posts" : 145,
+  "monitored" : true,
+  "position" : [ 45.893593, 11.036507 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "Stazione",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Stazione",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Stazione - Via Via Brigata Acqui - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "0.50",
+  "availableSharingVehicles" : -1,
+  "posts" : 110,
+  "monitored" : true,
+  "position" : [ 45.889441, 11.034458 ],
+  "costDefinition" : "€. 0,50/ora"
+}, {
+  "id" : "Mart",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Mart",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Mart - Via Sticcotta - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "0.80",
+  "availableSharingVehicles" : -1,
+  "posts" : 224,
+  "monitored" : true,
+  "position" : [ 45.894705, 11.044661 ],
+  "costDefinition" : "€. 0,80/ora"
+}, {
+  "id" : "Stadio",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Stadio",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Stadio - Via Magazol - Rovereto",
+  "parkAndRide" : true,
+  "fixedCost" : "0",
+  "availableSharingVehicles" : -1,
+  "posts" : 110,
+  "monitored" : false,
+  "position" : [ 45.900559, 11.03641 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "P.le A.Leoni",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P.le A.Leoni",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Piazzale Leoni - Via Achille Leoni - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "1.00",
+  "availableSharingVehicles" : -1,
+  "posts" : 370,
+  "monitored" : false,
+  "position" : [ 45.888179, 11.037827 ],
+  "costDefinition" : "€. 1,00/ora"
+}, {
+  "id" : "Parcheggio Ronchi",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Parcheggio Ronchi",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_ROVERETO"
+  },
+  "fullName" : "Via Ronchi - Rovereto",
+  "parkAndRide" : false,
+  "fixedCost" : "0",
+  "availableSharingVehicles" : -1,
+  "posts" : 65,
+  "monitored" : false,
+  "position" : [ 45.88138259999999, 11.034560100000022 ],
+  "costDefinition" : "Gratis"
+} ]

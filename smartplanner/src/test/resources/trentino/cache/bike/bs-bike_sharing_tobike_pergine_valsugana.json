@@ -1,0 +1,121 @@
+[
+  {
+    "id": "Centro Intermodale - Pergine Valsugana",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Centro Intermodale - Pergine Valsugana",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA"
+    },
+    "fullName": "Stazione \\/ via Dante Alighieri 69",
+    "availableSharingVehicles": 12,
+    "posts": 12,
+    "monitored": true,
+    "position": [
+      46.06283953962371,
+      11.232342992868098
+    ]
+  },
+  {
+    "id": "Madrano - Pergine Valsugana",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Madrano - Pergine Valsugana",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA"
+    },
+    "fullName": "Via Oltrefersina 153",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      46.0838504717494,
+      11.219184817335531
+    ]
+  },
+  {
+    "id": "Piazza Gavazzi - Pergine Valsugana",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Piazza Gavazzi - Pergine Valsugana",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA"
+    },
+    "fullName": "Via Pennella \\/ p.za Gavazzi",
+    "availableSharingVehicles": 12,
+    "posts": 12,
+    "monitored": true,
+    "position": [
+      46.061562809082304,
+      11.237374816980036
+    ]
+  },
+  {
+    "id": "San Cristoforo - Pergine Valsugana",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "San Cristoforo - Pergine Valsugana",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA"
+    },
+    "fullName": "SP1 - Loc. S. Cristoforo al lago 76",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      46.03895281452017,
+      11.234006501852377
+    ]
+  },
+  {
+    "id": "Spiaz de le Oche - Pergine Valsugana",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Spiaz de le Oche - Pergine Valsugana",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA"
+    },
+    "fullName": "p.za s. rocco 6",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      46.05895684521892,
+      11.238906428311111
+    ]
+  },
+  {
+    "id": "Susà - Scuola Elementare - Pergine Valsugana",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Susà - Scuola Elementare - Pergine Valsugana",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA"
+    },
+    "fullName": "Via Don Giovanni Sopperra 45",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      46.050157284989574,
+      11.223331429499808
+    ]
+  },
+  {
+    "id": "Tegazzo - Pergine Valsugana",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Tegazzo - Pergine Valsugana",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA"
+    },
+    "fullName": "Via Tegazzo fr. civ. 10",
+    "availableSharingVehicles": 9,
+    "posts": 9,
+    "monitored": true,
+    "position": [
+      46.06131044875352,
+      11.243516084620978
+    ]
+  }
+]

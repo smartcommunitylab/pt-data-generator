@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<stations lastUpdate="1342443815555" version="2.0">
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Brione - Rovereto</id>
+		<fullName>Via Perosi \/ Via Puccini</fullName>
+		<lat>45.90421911950808</lat>
+		<lon>11.044299836454002</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Lizzana - Rovereto</id>
+		<fullName>P.za Guella \/ Via Montello</fullName>
+		<lat>45.8675281353871</lat>
+		<lon>11.031902417860465</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>0</posts>
+		<sharedVehicles>0</sharedVehicles>
+		<monitored>false</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Marco - Rovereto</id>
+		<fullName>Via 2 novembre \/ via Alveo - Scuola</fullName>
+		<lat>45.84133938920707</lat>
+		<lon>11.008448922615116</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Mart - Rovereto</id>
+		<fullName>Via Bettini Museo Mart</fullName>
+		<lat>45.89383120606002</lat>
+		<lon>11.043776690807363</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Municipio - Rovereto</id>
+		<fullName>Via Calcinari fr. civ. 11</fullName>
+		<lat>45.88700893072052</lat>
+		<lon>11.04421812261512</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Noriglio - Rovereto</id>
+		<fullName>Via Noriglio \/ ex scuola D. Chiesa</fullName>
+		<lat>45.88365364364294</lat>
+		<lon>11.070399481792492</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Ospedale - Rovereto</id>
+		<fullName>C.so Verona Park Ospedale Nuovo</fullName>
+		<lat>45.88226500641319</lat>
+		<lon>11.040281016146878</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>P. Rosmini - Rovereto</id>
+		<fullName>P.za Rosmini 1</fullName>
+		<lat>45.89102037579931</lat>
+		<lon>11.043363036887968</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Quercia - Rovereto</id>
+		<fullName>Via Palestrina 3</fullName>
+		<lat>45.9027378</lat>
+		<lon>11.036300200000028</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Sacco - Rovereto</id>
+		<fullName>Via Vittoria \/ Via Unione</fullName>
+		<lat>45.88477528345004</lat>
+		<lon>11.023286167216156</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Stazione FF.SS. - Rovereto</id>
+		<fullName>P.le Orsi - Scuola</fullName>
+		<lat>45.89125332494616</lat>
+		<lon>11.03489086508182</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Via Paoli - Rovereto</id>
+		<fullName>Via Manzoni \/ Via Paoli</fullName>
+		<lat>45.89177380040726</lat>
+		<lon>11.039904616532908</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_ROVERETO</agencyId>
+		<id>Zona Industriale - Rovereto</id>
+		<fullName>Via Caproni Park Laghiol - Luxottica</fullName>
+		<lat>45.86630335827336</lat>
+		<lon>11.015673193887324</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+
+
+</stations>

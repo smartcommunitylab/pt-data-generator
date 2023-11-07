@@ -1,0 +1,100 @@
+[{
+	"id": "Degasperi",
+	"type": "TAXI",
+	"stationId": {
+		"id": "via Degasperi 77",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "via Degasperi 77",
+	"location": [46.044135,11.129531]
+},
+{
+	"id": "Ospedale",
+	"type": "TAXI",
+	"stationId": {
+		"id": "Largo Medaglie d'oro 9",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "Largo Medaglie d'oro 9",
+	"location": [46.057744,11.132683]
+},
+{
+	"id": "Auditorium",
+	"type": "TAXI",
+	"stationId": {
+		"id": "via S.Croce n. 26",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "via S.Croce n. 26",
+	"location": [46.064461,11.123230]
+},
+{
+	"id": "Muse",
+	"type": "TAXI",
+	"stationId": {
+		"id": "via della Scienza e del Lavoro",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "via della Scienza e del Lavoro",
+	"location": [46.059791,11.115960]
+},
+{
+	"id": "Duomo",
+	"type": "TAXI",
+	"stationId": {
+		"id": "piazza Duomo, 45",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "piazza Duomo, 45",
+	"location": [46.067866,11.121281]
+},
+{
+	"id": "Stazione",
+	"type": "TAXI",
+	"stationId": {
+		"id": "piazza Dante, 9",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "piazza Dante, 9",
+	"location": [46.072017,11.121362]
+},
+{
+	"id": "Petrarca",
+	"type": "TAXI",
+	"stationId": {
+		"id": "via Petrarca 8",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "via Petrarca 8",
+	"location": [46.074755,11.123907]
+},
+{
+	"id": "Zuffo",
+	"type": "TAXI",
+	"stationId": {
+		"id": "piazzale Zuffo",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "piazzale Zuffo",
+	"location": [46.075811,11.109615]
+},
+{
+	"id": "Centochiavi",
+	"type": "TAXI",
+	"stationId": {
+		"id": "via Gilli 4",
+		"extra": null,
+		"agencyId": "TAXI_TRENTO"
+	},
+	"address": "via Gilli 4",
+	"location": [46.090976,11.118946]
+}
+]

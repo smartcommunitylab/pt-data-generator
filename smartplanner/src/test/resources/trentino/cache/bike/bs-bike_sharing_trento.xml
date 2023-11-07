@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<stations lastUpdate="1342443815555" version="2.0">
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Azienda Sanitaria - Trento</id>
+		<fullName>Via De Gasperi - Lato Trento Frutta</fullName>
+		<lat>46.044433415996814</lat>
+		<lon>11.12804971230321</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>18</posts>
+		<sharedVehicles>18</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Biblioteca - Trento</id>
+		<fullName>Via Alfieri \/ Via Torre Vanga</fullName>
+		<lat>46.07043395910254</lat>
+		<lon>11.121399842327946</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>24</posts>
+		<sharedVehicles>24</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Bren Center - Trento</id>
+		<fullName>Via Guardini fr. civ. 75</fullName>
+		<lat>46.094653868146885</lat>
+		<lon>11.117693389024225</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>18</posts>
+		<sharedVehicles>18</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Centro Santa Chiara - Trento</id>
+		<fullName>Via S. Croce 78</fullName>
+		<lat>46.06345393738132</lat>
+		<lon>11.12375366752849</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>18</posts>
+		<sharedVehicles>18</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Piazza della Mostra - Trento</id>
+		<fullName>P.za della Mostra 30</fullName>
+		<lat>46.071784324082046</lat>
+		<lon>11.125761136176266</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Piazza di Centa - Trento</id>
+		<fullName>P.le di Centa \/ Via Vannetti</fullName>
+		<lat>46.07538723420181</lat>
+		<lon>11.12382177686004</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Piazza Venezia - Trento</id>
+		<fullName>Via Grazioli \/ P.za Venezia</fullName>
+		<lat>46.06753791402558</lat>
+		<lon>11.126987115869156</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>24</posts>
+		<sharedVehicles>24</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Piscina - Trento</id>
+		<fullName>Via Fogazzaro \/ Via Gocciadoro</fullName>
+		<lat>46.05613921850254</lat>
+		<lon>11.131125179167952</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>24</posts>
+		<sharedVehicles>24</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Stazione Autocorriere - Trento</id>
+		<fullName>Via Pozzo \/ Via Torre Vanga</fullName>
+		<lat>46.07023563810641</lat>
+		<lon>11.119849430688419</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Stazione FFSS - Ospedale - Trento</id>
+		<fullName>Via Gocciadoro - Staz. S. Chiara</fullName>
+		<lat>46.054586705531555</lat>
+		<lon>11.135349258821861</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Top Center - Trento</id>
+		<fullName>Via Pranzelores \/ Via Giuseppe Gilli</fullName>
+		<lat>46.09011031912936</lat>
+		<lon>11.11851463299638</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>24</posts>
+		<sharedVehicles>24</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_TRENTO</agencyId>
+		<id>Università - Trento</id>
+		<fullName>Via Rosmini 50 - Università</fullName>
+		<lat>46.06632943181332</lat>
+		<lon>11.119020308598351</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>18</posts>
+		<sharedVehicles>18</sharedVehicles>
+		<monitored>true</monitored>
+	</station>	
+	
+	
+
+</stations>

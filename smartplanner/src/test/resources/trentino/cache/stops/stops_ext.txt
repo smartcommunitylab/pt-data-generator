@@ -1,0 +1,293 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,zone_id
+cimoneri,Cimoneri,,46.396748,11.669557,1270
+trento_v.giusti-l.da_vinci,Trento(V.Giusti-L.Da Vinci,,46.396748,11.669557,1270
+garniga_vecchia,GARNIGA VECCHIA - Arr.,,46.396748,11.669557,1270
+trento_viale_verona,TRENTO(Viale Verona),,46.396748,11.669557,1270
+aldeno,ALDENO - Arr.,,46.396748,11.669557,1270
+trento_autostaz.,TRENTO(Autostaz.) - Part.,,46.396748,11.669557,1270
+s.ilario,S.Ilario,,46.396748,11.669557,1270
+cimone_-_bivio_pietra,Cimone - Bivio Pietra - Arr.,,46.396748,11.669557,1270
+ravina_bivio,Ravina Bivio,,46.396748,11.669557,1270
+romagnano_bivio,Romagnano Bivio,,46.396748,11.669557,1270
+mattarello_ss.12,Mattarello(SS.12),,46.396748,11.669557,1270
+mattarello_via_catoni,Mattarello(Via Catoni),,46.396748,11.669557,1270
+pietra_di_cimone,Pietra di Cimone,,46.396748,11.669557,1270
+vigile,Vigile - Arr.,,46.396748,11.669557,1270
+garniga_terme,GARNIGA TERME,,46.396748,11.669557,1270
+costa_di_cimone,Costa di Cimone,,46.396748,11.669557,1270
+trento_stazione_fs,TRENTO(Stazione FS) - Part.,,46.396748,11.669557,1270
+covelo_di_cimone,Covelo di Cimone,,46.396748,11.669557,1270
+cimone,CIMONE,,46.396748,11.669557,1270
+trento_via_m.baldo,TRENTO(Via M.Baldo),,46.396748,11.669557,1270
+trento_via_bezzi,TRENTO(Via Bezzi),,46.396748,11.669557,1270
+azzolini,Azzolini,,46.396748,11.669557,1270
+gasperi,Gasperi,,46.396748,11.669557,1270
+s.rocco,S.Rocco,,46.396748,11.669557,1270
+casanova,Casanova,,46.396748,11.669557,1270
+fricca,Fricca,,46.396748,11.669557,1270
+carbonare,CARBONARE - Arr.,,46.396748,11.669557,1270
+pianizza,Pianizza,,46.396748,11.669557,1270
+campregheri_bivio,Campregheri bivio,,46.396748,11.669557,1270
+cernidor,Cernidor,,46.396748,11.669557,1270
+monterovere,Monterovere,,46.396748,11.669557,1270
+vigolo_vattaro,VIGOLO VATTARO,,46.396748,11.669557,1270
+trento_v.s.francesco,TRENTO(V.S.Francesco),,46.396748,11.669557,1270
+pian_dei_pradi,Pian dei Pradi,,46.396748,11.669557,1270
+pergine_c.intermodale,PERGINE(C.Intermodale),,46.396748,11.669557,1270
+bosentino,Bosentino,,46.396748,11.669557,1270
+valsorda,Valsorda,,46.396748,11.669557,1270
+gionghi,Gionghi,,46.396748,11.669557,1270
+luserna,LUSERNA - Arr.,,46.396748,11.669557,1270
+virti,Virti,,46.396748,11.669557,1270
+vattaro,VATTARO,,46.396748,11.669557,1270
+lanzino,Lanzino,,46.396748,11.669557,1270
+trento_p.za_vicenza,TRENTO(P.za Vicenza),,46.396748,11.669557,1270
+stengheli,Stengheli,,46.396748,11.669557,1270
+lavarone_cappella,LAVARONE CAPPELLA - Arr.,,46.396748,11.669557,1270
+centa,CENTA - Arr.,,46.396748,11.669557,1270
+nosellari,Nosellari,,46.396748,11.669557,1270
+bertoldi,Bertoldi,,46.396748,11.669557,1270
+lavarone_chiesa,LAVARONE CHIESA,,46.396748,11.669557,1270
+pian_dei_pradi_rotatoria,Pian dei Pradi(Rotatoria),,46.396748,11.669557,1270
+saccone,SACCONE - Arr.,,46.396748,11.669557,1270
+besagno,BESAGNO,,46.396748,11.669557,1270
+rovereto_ospedale,ROVERETO(Ospedale),,46.396748,11.669557,1270
+prada,Prada,,46.396748,11.669557,1270
+mori_stazione_f.s.,Mori(Stazione F.S.),,46.396748,11.669557,1270
+fontechel,Fontechel,,46.396748,11.669557,1270
+mori_bar_centrale,MORI(Bar Centrale),,46.396748,11.669557,1270
+lizzanella,Lizzanella,,46.396748,11.669557,1270
+rovereto_staz.fs,ROVERETO(Staz.FS),,46.396748,11.669557,1270
+rovereto_via_savioli,ROVERETO(Via Savioli) - Part.,,46.396748,11.669557,1270
+tierno,Tierno,,46.396748,11.669557,1270
+brentonico,BRENTONICO,,46.396748,11.669557,1270
+ravazzone_di_mori,Ravazzone di Mori,,46.396748,11.669557,1270
+castione,Castione,,46.396748,11.669557,1270
+centro_comm.le_millenium,Centro Comm.le Millenium,,46.396748,11.669557,1270
+rovereto_via_paoli,ROVERETO(Via Paoli) - Arr.,,46.396748,11.669557,1270
+rov.z.ind.luxottica,Rov.Z.Ind.Luxottica,,46.396748,11.669557,1270
+rovereto_staz.f.s.,ROVERETO(Staz.F.S.),,46.396748,11.669557,1270
+rovereto_ospedale.,ROVERETO(Ospedale).,,46.396748,11.669557,1270
+crosano_bivio,Crosano bivio,,46.396748,11.669557,1270
+volano,Volano,,46.396748,11.669557,1270
+s.sebastiano,S.Sebastiano,,46.396748,11.669557,1270
+serrada,SERRADA,,46.396748,11.669557,1270
+carpeneda,Carpeneda,,46.396748,11.669557,1270
+s.ilario,S.Ilario,,46.396748,11.669557,1270
+peneri,Peneri,,46.396748,11.669557,1270
+mezzomonte,Mezzomonte - Part.,,46.396748,11.669557,1270
+costa,Costa,,46.396748,11.669557,1270
+folgaria_via_battisti,Folgaria(Via Battisti),,46.396748,11.669557,1270
+calliano_bivio_folgaria,CALLIANO(bivio Folgaria),,46.396748,11.669557,1270
+folgaria_-_p.le_n.unite,Folgaria - P.le N.Unite - Arr.,,46.396748,11.669557,1270
+lago_di_lavarone,Lago di Lavarone,,46.396748,11.669557,1270
+dietrobeseno,Dietrobeseno,,46.396748,11.669557,1270
+guardia_di_folgaria,Guardia di Folgaria - Arr.,,46.396748,11.669557,1270
+passo_del_sommo,Passo del Sommo,,46.396748,11.669557,1270
+rov._c.rosmini-monu.,ROV.(C.Rosmini-Monu.),,46.396748,11.669557,1270
+rovereto_via_manzoni,ROVERETO(Via Manzoni),,46.396748,11.669557,1270
+ala_via_malfatti,ALA(Via Malfatti),,46.396748,11.669557,1270
+avio_via_m.baldo,AVIO(Via M.Baldo) - Arr.,,46.396748,11.669557,1270
+ala_ospedale_bivio,ALA(Ospedale bivio),,46.396748,11.669557,1270
+villetta,Villetta,,46.396748,11.669557,1270
+avio,AVIO,,46.396748,11.669557,1270
+ala_staz.fs,ALA(Staz.FS) - Arr.,,46.396748,11.669557,1270
+chizzola,CHIZZOLA,,46.396748,11.669557,1270
+corne',CORNE' - Arr.,,46.396748,11.669557,1270
+lizzana,Lizzana,,46.396748,11.669557,1270
+mori_terranera,MORI(Terranera),,46.396748,11.669557,1270
+s.lucia_di_ala,S.Lucia di Ala,,46.396748,11.669557,1270
+campagnola,Campagnola,,46.396748,11.669557,1270
+marco,Marco,,46.396748,11.669557,1270
+sabbionara.,Sabbionara.,,46.396748,11.669557,1270
+pilcante_bivio,Pilcante Bivio,,46.396748,11.669557,1270
+pilcante,Pilcante,,46.396748,11.669557,1270
+loc.cazzanelli_di_corne',Loc.Cazzanelli di Corne' - Arr.,,46.396748,11.669557,1270
+s.cecilia,S.Cecilia,,46.396748,11.669557,1270
+serravalle,Serravalle,,46.396748,11.669557,1270
+chizzola_v.de_gasperi,CHIZZOLA(V.De Gasperi),,46.396748,11.669557,1270
+ala_ospedale_bivio.,ALA(Ospedale bivio).,,46.396748,11.669557,1270
+ala_via_malfatti.,ALA(Via Malfatti).,,46.396748,11.669557,1270
+ala_staz.fs.,ALA(Staz.FS).- Arr.,,46.396748,11.669557,1270
+pilcante_bivio.,Pilcante Bivio.,,46.396748,11.669557,1270
+varano,Varano,,46.396748,11.669557,1270
+pannone,Pannone,,46.396748,11.669557,1270
+loppio_bivio,Loppio(Bivio),,46.396748,11.669557,1270
+ronzo_c.-_pra_da_lac,RONZO C.- Pra da Lac - Arr.,,46.396748,11.669557,1270
+ronzo_chienis,RONZO CHIENIS - Arr.,,46.396748,11.669557,1270
+valle_s.felice,VALLE S.FELICE,,46.396748,11.669557,1270
+manzano,Manzano,,46.396748,11.669557,1270
+nomesino,NOMESINO,,46.396748,11.669557,1270
+pomarolo_chiesa,Pomarolo(Chiesa),,46.396748,11.669557,1270
+piazzo_di_villa_lagarina,Piazzo di Villa Lagarina,,46.396748,11.669557,1270
+chiusole,Chiusole,,46.396748,11.669557,1270
+pomarolo,Pomarolo - Arr.,,46.396748,11.669557,1270
+rov._c.rosmini_pt,ROV.(C.Rosmini PT),,46.396748,11.669557,1270
+nomi,NOMI - Arr.,,46.396748,11.669557,1270
+villa_lagarina,Villa Lagarina,,46.396748,11.669557,1270
+speccheri_bivio,Speccheri Bivio,,46.396748,11.669557,1270
+bastianello,Bastianello,,46.396748,11.669557,1270
+s.anna_di_vallarsa,S.Anna di Vallarsa,,46.396748,11.669557,1270
+aste,Aste,,46.396748,11.669557,1270
+speccheri,Speccheri,,46.396748,11.669557,1270
+pozzacchio_bivio,Pozzacchio bivio,,46.396748,11.669557,1270
+albaredo,Albaredo,,46.396748,11.669557,1270
+vanza_bivio,Vanza bivio,,46.396748,11.669557,1270
+zocchio,Zocchio,,46.396748,11.669557,1270
+valmorbia,Valmorbia,,46.396748,11.669557,1270
+toldo,Toldo,,46.396748,11.669557,1270
+parrocchia_di_vallarsa,Parrocchia di Vallarsa,,46.396748,11.669557,1270
+foxi,Foxi,,46.396748,11.669557,1270
+clocchi,Clocchi,,46.396748,11.669557,1270
+anghebeni,Anghebeni - Arr.,,46.396748,11.669557,1270
+vignala,Vignala,,46.396748,11.669557,1270
+dosso_vallarsa,Dosso(Vallarsa),,46.396748,11.669557,1270
+raossi,RAOSSI - Arr.,,46.396748,11.669557,1270
+moscheri,Moscheri,,46.396748,11.669557,1270
+boccaldo,Boccaldo,,46.396748,11.669557,1270
+piano_di_vallarsa,PIANO DI VALLARSA - Arr.,,46.396748,11.669557,1270
+trattoria_genovesa,Trattoria Genovesa,,46.396748,11.669557,1270
+streva,Streva,,46.396748,11.669557,1270
+spino,Spino,,46.396748,11.669557,1270
+camposilvano,CAMPOSILVANO - Arr.,,46.396748,11.669557,1270
+pian_delle_fugazze,PIAN DELLE FUGAZZE - Arr.,,46.396748,11.669557,1270
+vanza_sp50,Vanza SP50 - Arr.,,46.396748,11.669557,1270
+cumerlotti,Cumerlotti - Arr.,,46.396748,11.669557,1270
+bivio_porte_di_trambileno,Bivio Porte di Trambileno,,46.396748,11.669557,1270
+obra_di_vallarsa,OBRA DI VALLARSA,,46.396748,11.669557,1270
+bruni,Bruni,,46.396748,11.669557,1270
+ometto,OMETTO - Arr.,,46.396748,11.669557,1270
+zanolli,Zanolli,,46.396748,11.669557,1270
+matassone,Matassone,,46.396748,11.669557,1270
+riva_di_vallarsa,Riva di Vallarsa,,46.396748,11.669557,1270
+foppiano,Foppiano,,46.396748,11.669557,1270
+zoreri-soldati,Zoreri-Soldati,,46.396748,11.669557,1270
+baisi,Baisi,,46.396748,11.669557,1270
+camperi,Camperi,,46.396748,11.669557,1270
+peltreri,Peltreri,,46.396748,11.669557,1270
+pedrazzi,Pedrazzi,,46.396748,11.669557,1270
+piazza_di_terragnolo,PIAZZA DI TERRAGNOLO - Arr.,,46.396748,11.669557,1270
+scottini,Scottini,,46.396748,11.669557,1270
+mezzaselva,Mezzaselva,,46.396748,11.669557,1270
+valduga,Valduga,,46.396748,11.669557,1270
+valgrande,Valgrande,,46.396748,11.669557,1270
+campolongo_noriglio,Campolongo(Noriglio),,46.396748,11.669557,1270
+costa_di_terragnolo,Costa di Terragnolo,,46.396748,11.669557,1270
+geroli,Geroli - Arr.,,46.396748,11.669557,1270
+noriglio,NORIGLIO,,46.396748,11.669557,1270
+pozzacchio,POZZACCHIO - Arr.,,46.396748,11.669557,1270
+pozza_di_trambileno,Pozza di Trambileno,,46.396748,11.669557,1270
+vanza,Vanza,,46.396748,11.669557,1270
+crosano,Crosano,,46.396748,11.669557,1270
+cazzano,Cazzano,,46.396748,11.669557,1270
+sorne,Sorne,,46.396748,11.669557,1270
+s.tomaso_direz.arco,S.Tomaso(direz.Arco),,46.396748,11.669557,1270
+vignole,Vignole,,46.396748,11.669557,1270
+s.tomaso_direz.riva,S.Tomaso(direz.Riva),,46.396748,11.669557,1270
+loppio,Loppio,,46.396748,11.669557,1270
+bolognano_bivio,Bolognano Bivio,,46.396748,11.669557,1270
+bolognano,BOLOGNANO - Arr.,,46.396748,11.669557,1270
+molina_di_mori,Molina di Mori,,46.396748,11.669557,1270
+rione_degasperi_dir.riva,Rione Degasperi(dir.Riva),,46.396748,11.669557,1270
+rione_degasperi_dir.arco,Rione Degasperi(dir.Arco),,46.396748,11.669557,1270
+torbole,TORBOLE,,46.396748,11.669557,1270
+riva_del_g._autostaz.,RIVA DEL G.(Autostaz.) - Arr.,,46.396748,11.669557,1270
+passo_s.giovanni,Passo S.Giovanni,,46.396748,11.669557,1270
+arco_autostaz.,ARCO(Autostaz.),,46.396748,11.669557,1270
+nago,NAGO,,46.396748,11.669557,1270
+caneve,Caneve,,46.396748,11.669557,1270
+riva_del_g.via_d.chiesa,Riva del G.Via D.Chiesa,,46.396748,11.669557,1270
+massone,Massone,,46.396748,11.669557,1270
+riva_del_g.viale_martiri,Riva del G.Viale Martiri,,46.396748,11.669557,1270
+bolognano_via_asilo,Bolognano Via Asilo,,46.396748,11.669557,1270
+s.margherita,S.Margherita,,46.396748,11.669557,1270
+mama_d'avio,Mama d'Avio,,46.396748,11.669557,1270
+s.leonardo,S.Leonardo,,46.396748,11.669557,1270
+marani,Marani,,46.396748,11.669557,1270
+vo'_sinistro,Vo' Sinistro,,46.396748,11.669557,1270
+mama_d'avio_di_sotto,Mama d'Avio di Sotto - Arr.,,46.396748,11.669557,1270
+marani.,Marani.,,46.396748,11.669557,1270
+marco.,Marco.,,46.396748,11.669557,1270
+s.margherita.,S.Margherita.,,46.396748,11.669557,1270
+masi_d'avio,MASI D'AVIO,,46.396748,11.669557,1270
+borghetto,BORGHETTO - Part.,,46.396748,11.669557,1270
+serravalle.,Serravalle.,,46.396748,11.669557,1270
+sdruzzina',Sdruzzina',,46.396748,11.669557,1270
+calieri,Calieri,,46.396748,11.669557,1270
+brustolotti,Brustolotti,,46.396748,11.669557,1270
+ronchi_di_ala,Ronchi di Ala - Part.,,46.396748,11.669557,1270
+muravalle,Muravalle,,46.396748,11.669557,1270
+ala_via_perlè,Ala(Via Perlè),,46.396748,11.669557,1270
+ponzolotti,Ponzolotti - Part.,,46.396748,11.669557,1270
+ala_scuole,Ala(Scuole),,46.396748,11.669557,1270
+
+trento_via_zambra,TRENTO(Via Zambra),,46.396748,11.669557,1270
+volano,Volano,,46.396748,11.669557,1270
+rovereto_staz.f.s.,ROVERETO(Staz.F.S.) - Arr.,,46.396748,11.669557,1270
+rovereto_via_manzoni,ROVERETO(Via Manzoni) - Arr.,,46.396748,11.669557,1270
+trento_c.tre_novembre,TRENTO(C.Tre Novembre),,46.396748,11.669557,1270
+acquaviva,Acquaviva,,46.396748,11.669557,1270
+calliano,CALLIANO,,46.396748,11.669557,1270
+besenello,Besenello - Part.,,46.396748,11.669557,1270
+trento_distretto,TRENTO(Distretto),,46.396748,11.669557,1270
+mattarello,Mattarello,,46.396748,11.669557,1270
+trento_via_zambra,TRENTO(Via Zambra),,46.396748,11.669557,1270
+rovereto_via_paoli,ROVERETO(Via Paoli) - Part.,,46.396748,11.669557,1270
+garniga_vecchia,GARNIGA VECCHIA - Arr.,,46.396748,11.669557,1270
+costa_di_cimone,Costa di Cimone,,46.396748,11.669557,1270
+covelo_di_cimone,Covelo di Cimone,,46.396748,11.669557,1270
+trento_via_m.baldo,TRENTO(Via M.Baldo),,46.396748,11.669557,1270
+cimoneri,Cimoneri,,46.396748,11.669557,1270
+aldeno,ALDENO - Arr.,,46.396748,11.669557,1270
+cimone_-_bivio_pietra,Cimone - Bivio Pietra - Arr.,,46.396748,11.669557,1270
+ravina_bivio,Ravina Bivio,,46.396748,11.669557,1270
+romagnano_bivio,Romagnano Bivio,,46.396748,11.669557,1270
+trento_via_piave_50,Trento(Via Piave 50),,46.396748,11.669557,1270
+trento_v.giusti-l.d.vinci,Trento(V.Giusti-L.D.Vinci),,46.396748,11.669557,1270
+valsorda,Valsorda,,46.396748,11.669557,1270
+gionghi,Gionghi,,46.396748,11.669557,1270
+lanzino,Lanzino,,46.396748,11.669557,1270
+stengheli,Stengheli,,46.396748,11.669557,1270
+centa,CENTA - Arr.,,46.396748,11.669557,1270
+bertoldi,Bertoldi,,46.396748,11.669557,1270
+azzolini,Azzolini,,46.396748,11.669557,1270
+gasperi,Gasperi,,46.396748,11.669557,1270
+s.rocco,S.Rocco,,46.396748,11.669557,1270
+casanova,Casanova,,46.396748,11.669557,1270
+fricca,Fricca,,46.396748,11.669557,1270
+cernidor,Cernidor,,46.396748,11.669557,1270
+campregheri_bivio,Campregheri bivio,,46.396748,11.669557,1270
+calceranica_al_lago,Calceranica al Lago,,46.396748,11.669557,1270
+brentonico_via_calzolari,Brentonico(Via Calzolari),,46.396748,11.669557,1270
+passo_s.valentino,Passo S.Valentino - Part.,,46.396748,11.669557,1270
+polsa,Polsa - Part.,,46.396748,11.669557,1270
+s.giacomo_di_brentonico,S.Giacomo di Brentonico,,46.396748,11.669557,1270
+rov._c.rosmini-monu.,ROV.(C.Rosmini-Monu.) - Arr.,,46.396748,11.669557,1270
+rovereto_-_ist.veronesi,Rovereto - Ist.Veronesi - Arr.,,46.396748,11.669557,1270
+virti,Virti,,46.396748,11.669557,1270
+rov.z.ind.difr.luxottica,Rov.Z.Ind.difr.Luxottica,,46.396748,11.669557,1270
+s.barbara,S.Barbara - Arr.,,46.396748,11.669557,1270
+pomarolo_chiesa,Pomarolo(Chiesa) - Arr.,,46.396748,11.669557,1270
+pomarolo,Pomarolo,,46.396748,11.669557,1270
+rov._c.rosmini_pt,ROV.(C.Rosmini PT),,46.396748,11.669557,1270
+vanza.,Vanza.,,46.396748,11.669557,1270
+aste,Aste - Arr.,,46.396748,11.669557,1270
+albaredo,Albaredo,,46.396748,11.669557,1270
+cumerlotti,Cumerlotti,,46.396748,11.669557,1270
+nomesino,NOMESINO - Arr.,,46.396748,11.669557,1270
+manzano,Manzano,,46.396748,11.669557,1270
+manzano.,Manzano.,,46.396748,11.669557,1270
+rione_degasperi_dir.arco,Rione Degasperi(dir.Arco),,46.396748,11.669557,1270
+vo_sinistro,Vo Sinistro,,46.396748,11.669557,1270
+mama_davio,Mama dAvio,,46.396748,11.669557,1270
+lizzana.,Lizzana.,,46.396748,11.669557,1270
+masi_davio,MASI DAVIO,,46.396748,11.669557,1270
+borghetto,BORGHETTO,,46.396748,11.669557,1270
+sdruzzina,Sdruzzina,,46.396748,11.669557,1270
+mama_d'avio,Mama d'Avio,,46.396748,11.669557,1270
+vo'_sinistro,Vo' Sinistro,,46.396748,11.669557,1270
+masi_d'avio,MASI D'AVIO,,46.396748,11.669557,1270
+brustolotti_loc.rocca,Brustolotti loc.Rocca,,46.396748,11.669557,1270
+ronchi_di_ala,Ronchi di Ala - Arr.,,46.396748,11.669557,1270
+ponzolotti,Ponzolotti - Arr.,,46.396748,11.669557,1270
+trento_man,TRENTO(Man),,46.396748,11.669557,1270

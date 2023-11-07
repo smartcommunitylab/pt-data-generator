@@ -1,0 +1,6 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+URBAN_TRENTO_70MINS,1.20,EUR,1,,4200
+URBAN_TRENTO_120MINS,1.50,EUR,1,,7200
+URBAN_TRENTO_GIORNALIERO,3.00,EUR,1,,86400
+URB_INTERA 613-Biglietto Funivia Trento-Sardagna Andata,3.00,EUR,1,,4200
+URB_INTERA 794-Biglietto Funivia Sardana Andata E Ritorno,5.00,EUR,1,,4200

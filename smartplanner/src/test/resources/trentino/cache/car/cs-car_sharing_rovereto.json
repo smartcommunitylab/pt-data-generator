@@ -1,0 +1,33 @@
+[ {
+  "id" : "Rosimini",
+  "type" : "CAR-RENTAL",
+  "stationId" : {
+    "id" : "Rosimini",
+    "extra" : null,
+    "agencyId" : "CAR_SHARING_ROVERETO"
+  },
+  "fullName" : "Rosimini",
+  "parkAndRide" : false,
+  "fixedCost" : null,
+  "availableSharingVehicles" : 1,
+  "posts" : -1,
+  "monitored" : false,
+  "position" : [ 45.890919, 11.037467 ],
+  "costDefinition" : null
+}, {
+  "id" : "Manif",
+  "type" : "CAR-RENTAL",
+  "stationId" : {
+    "id" : "Manif",
+    "extra" : null,
+    "agencyId" : "CAR_SHARING_ROVERETO"
+  },
+  "fullName" : "Manifattura",
+  "parkAndRide" : false,
+  "fixedCost" : null,
+  "availableSharingVehicles" : 1,
+  "posts" : -1,
+  "monitored" : false,
+  "position" : [ 45.883929, 11.021216 ],
+  "costDefinition" : null
+} ]

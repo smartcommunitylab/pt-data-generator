@@ -1,0 +1,1 @@
+{"stopsId":["Verona-PortaNuova_5","Rovereto_5","Trento_5","Bolzano_5"],"stops":["VeronaPN FS","Rovereto FS","Trento FS","Bolzano FS"],"tripIds":["EC88","EC80","EC84","EC86","EC1288"],"routesIds":["BV_R1_R","BV_R1_R","BV_R1_R","BV_R1_R","BV_R1_R"],"compressedTimes":"09040943095910311102114311591231130413431359143115021543155916311702174317591831"}

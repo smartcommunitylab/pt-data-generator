@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<stations lastUpdate="1342443815555" version="2.0">
+	<station>
+		<agencyId>CAR_SHARING_TRENTO</agencyId>
+		<id>Tridente</id>
+		<fullName>Tridente</fullName>
+		<lat>46.086131</lat>
+		<lon>11.118672</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+	<station>
+		<agencyId>CAR_SHARING_TRENTO</agencyId>
+		<id>Via Segantini</id>
+		<fullName>Federation of Co-operation (Via Segantini)</fullName>
+		<lat>46.074659</lat>
+		<lon>11.121764</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>3</sharedVehicles>
+	</station>
+	<station>
+		<agencyId>CAR_SHARING_TRENTO</agencyId>
+		<id>Piazza Dante</id>
+		<fullName>Piazza Dante</fullName>
+		<lat>46.071546</lat>
+		<lon>11.121182</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>2</sharedVehicles>
+	</station>
+	<station>
+		<agencyId>CAR_SHARING_TRENTO</agencyId>
+		<id>Piazza Venezia</id>
+		<fullName>Piazza Venezia</fullName>
+		<lat>46.069734</lat>
+		<lon>11.127685</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+	<station>
+		<agencyId>CAR_SHARING_TRENTO</agencyId>
+		<id>Povo</id>
+		<fullName>Povo</fullName>
+		<lat>46.065452</lat>
+		<lon>11.154308</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+	<station>
+		<agencyId>CAR_SHARING_TRENTO</agencyId>
+		<id>Piazza Fiera</id>
+		<fullName>Piazza Fiera</fullName>
+		<lat>46.064518</lat>
+		<lon>11.123329</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+	<station>
+		<agencyId>CAR_SHARING_TRENTO</agencyId>
+		<id>Muse</id>
+		<fullName>Muse</fullName>
+		<lat>46.061232</lat>
+		<lon>11.115752</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+</stations>

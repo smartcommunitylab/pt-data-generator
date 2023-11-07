@@ -1,0 +1,23 @@
+[{
+	"id": "AUTONOLEGGIO VALDUGA FRANCESCO",
+	"type": "TAXI",
+	"stationId": {
+		"id": "Via Pasubio 125 fraz. Serrada",
+		"extra": null,
+		"agencyId": "TAXI_ALPECIMBRA"
+	},
+	"address": "Via Pasubio 125 fraz. Serrada",
+	"location": [45.889801,11.152988]
+},
+{
+	"id": "Toller s.n.c. di Toller Callisto & c.",
+	"type": "TAXI",
+	"stationId": {
+		"id": "Via Andrea Maffei 98, 38064 FOLGARIA (TN)",
+		"extra": null,
+		"agencyId": "TAXI_ALPECIMBRA"
+	},
+	"address": "Via Andrea Maffei 98, 38064 FOLGARIA (TN)",
+	"location": [45.919890,11.186903]
+}
+]

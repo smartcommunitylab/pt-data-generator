@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<stations lastUpdate="1342443815555" version="2.0">
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA</agencyId>
+		<id>Centro Intermodale - Pergine Valsugana</id>
+		<fullName>Stazione \/ via Dante Alighieri 69</fullName>
+		<lat>46.06283953962371</lat>
+		<lon>11.232342992868098</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>18</posts>
+		<sharedVehicles>18</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA</agencyId>
+		<id>Madrano - Pergine Valsugana</id>
+		<fullName>Via Oltrefersina 153</fullName>
+		<lat>46.0838504717494</lat>
+		<lon>11.219184817335531</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA</agencyId>
+		<id>Piazza Gavazzi - Pergine Valsugana</id>
+		<fullName>Via Pennella \/ p.za Gavazzi</fullName>
+		<lat>46.061562809082304</lat>
+		<lon>11.237374816980036</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA</agencyId>
+		<id>San Cristoforo - Pergine Valsugana</id>
+		<fullName>SP1 - Loc. S. Cristoforo al lago 76</fullName>
+		<lat>46.03895281452017</lat>
+		<lon>11.234006501852377</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA</agencyId>
+		<id>Spiaz de le Oche - Pergine Valsugana</id>
+		<fullName>p.za s. rocco 6</fullName>
+		<lat>46.05895684521892</lat>
+		<lon>11.238906428311111</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA</agencyId>
+		<id>Susà - Scuola Elementare - Pergine Valsugana</id>
+		<fullName>Via Don Giovanni Sopperra 45</fullName>
+		<lat>46.050157284989574</lat>
+		<lon>11.223331429499808</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>6</posts>
+		<sharedVehicles>6</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+	<station>
+		<agencyId>BIKE_SHARING_TOBIKE_PERGINE_VALSUGANA</agencyId>
+		<id>Tegazzo - Pergine Valsugana</id>
+		<fullName>Via Tegazzo fr. civ. 10</fullName>
+		<lat>46.06131044875352</lat>
+		<lon>11.243516084620978</lon>
+		<type>BIKE-RENTAL</type>
+		<posts>12</posts>
+		<sharedVehicles>12</sharedVehicles>
+		<monitored>true</monitored>
+	</station>
+
+</stations>
+	

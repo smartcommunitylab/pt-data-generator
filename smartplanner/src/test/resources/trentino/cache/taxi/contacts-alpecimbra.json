@@ -1,0 +1,19 @@
+[{
+	"id": "AUTONOLEGGIO VALDUGA FRANCESCO",
+	"name": "AUTONOLEGGIO VALDUGA FRANCESCO",
+	"agencyId": "TAXI_ALPECIMBRA",
+	"phone": ["0464727076",	"3482262002", "3276882711"],
+	"sms": [],
+	"email": "francesco.valduga@alice.it",
+	"web": ""
+	
+},
+{
+	"id": "Toller s.n.c. di Toller Callisto & c.",
+	"name": "Toller s.n.c. di Toller Callisto & c.",
+	"agencyId": "TAXI_ALPECIMBRA",
+	"phone": ["0464480004"],
+	"sms": [],
+	"email": "info@tollerfolgaria.com",
+	"web": "www.tollerfolgaria.com"
+}]

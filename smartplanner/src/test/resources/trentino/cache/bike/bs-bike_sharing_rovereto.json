@@ -1,0 +1,291 @@
+[
+  {
+    "id": "Balista - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Balista - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Antonio Balista",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.896175282432274,
+      11.03036572611154
+    ]
+  },
+  {
+    "id": "Brione - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Brione - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Perosi \\/ Via Puccini",
+    "availableSharingVehicles": 5,
+    "posts": 5,
+    "monitored": true,
+    "position": [
+      45.90421911950808,
+      11.044299836454002
+    ]
+  },
+  {
+    "id": "Lizzana - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Lizzana - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "P.za Guella \\/ Via Montello",
+    "availableSharingVehicles": 0,
+    "posts": 0,
+    "monitored": false,
+    "position": [
+      45.8675281353871,
+      11.031902417860465
+    ]
+  },
+  {
+    "id": "Marco - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Marco - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via 2 novembre \\/ via Alveo - Scuola",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.84133938920707,
+      11.008448922615116
+    ]
+  },
+  {
+    "id": "Mart - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Mart - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Bettini Museo Mart",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.89383120606002,
+      11.043776690807363
+    ]
+  },
+  {
+    "id": "Municipio - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Municipio - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Calcinari fr. civ. 11",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.88700893072052,
+      11.04421812261512
+    ]
+  },
+  {
+    "id": "Noriglio - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Noriglio - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Noriglio \\/ ex scuola D. Chiesa",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.88365364364294,
+      11.070399481792492
+    ]
+  },
+  {
+    "id": "Orvea - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Orvea - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via del Garda",
+    "availableSharingVehicles": 12,
+    "posts": 12,
+    "monitored": true,
+    "position": [
+      45.87202945143379,
+      11.020309774135626
+    ]
+  },
+  {
+    "id": "Ospedale - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Ospedale - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "C.so Verona Park Ospedale Nuovo",
+    "availableSharingVehicles": 12,
+    "posts": 12,
+    "monitored": true,
+    "position": [
+      45.88226500641319,
+      11.040281016146878
+    ]
+  },
+  {
+    "id": "P. Rosmini - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "P. Rosmini - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "P.za Rosmini 1",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.89102037579931,
+      11.043363036887968
+    ]
+  },
+  {
+    "id": "Quercia - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Quercia - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Palestrina 3",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.9027378,
+      11.036300200000028
+    ]
+  },
+  {
+    "id": "Sacco - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Sacco - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Vittoria \\/ Via Unione",
+    "availableSharingVehicles": 12,
+    "posts": 12,
+    "monitored": true,
+    "position": [
+      45.88477528345004,
+      11.023286167216156
+    ]
+  },
+  {
+    "id": "Stazione FF.SS. - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Stazione FF.SS. - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "P.le Orsi - Scuola",
+    "availableSharingVehicles": 12,
+    "posts": 12,
+    "monitored": true,
+    "position": [
+      45.89125332494616,
+      11.03489086508182
+    ]
+  },
+  {
+    "id": "Stazione Mori - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Stazione Mori - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via per Marco",
+    "availableSharingVehicles": 11,
+    "posts": 11,
+    "monitored": true,
+    "position": [
+      45.861055769357066,
+      11.002103832016019
+    ]
+  },
+  {
+    "id": "Via Paoli - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Via Paoli - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Manzoni \\/ Via Paoli",
+    "availableSharingVehicles": 12,
+    "posts": 12,
+    "monitored": true,
+    "position": [
+      45.89177380040726,
+      11.039904616532908
+    ]
+  },
+  {
+    "id": "Villa Lagarina - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Villa Lagarina - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Piazzetta Scrinzi",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.91594639958107,
+      11.031688259394059
+    ]
+  },
+  {
+    "id": "Zona Industriale - Rovereto",
+    "type": "BIKE-RENTAL",
+    "stationId": {
+      "id": "Zona Industriale - Rovereto",
+      "extra": null,
+      "agencyId": "BIKE_SHARING_TOBIKE_ROVERETO"
+    },
+    "fullName": "Via Caproni Park Laghiol - Luxottica",
+    "availableSharingVehicles": 6,
+    "posts": 6,
+    "monitored": true,
+    "position": [
+      45.86630335827336,
+      11.015673193887324
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+[{
+	"id": "Cooperativa",
+	"name": "Cooperativa Radio Taxi",
+	"agencyId": "TAXI_TRENTO",
+	"phone": ["0461930002"],
+	"sms": ["340999655"]
+},
+{
+	"id": "Freccia",
+	"name": "Radio Taxi Freccia",
+	"agencyId": "TAXI_TRENTO",
+	"phone": ["04611560007",
+	"024000"],
+	"sms": []
+}]

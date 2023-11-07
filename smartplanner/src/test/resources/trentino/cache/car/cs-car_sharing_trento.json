@@ -1,0 +1,162 @@
+[
+  {
+    "id": "Piazza Venezia",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Piazza Venezia",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "Piazza Venezia",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 1,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.069734,
+      11.127685
+    ],
+    "costDefinition": null
+  },
+  {
+    "id": "Ospedale",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Ospedale",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "via Gocciadoro",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 1,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.056225,
+      11.131163
+    ],
+    "costDefinition": null
+  },
+  {
+    "id": "Solteri",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Solteri",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "Solteri",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 1,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.086326,
+      11.121426
+    ],
+    "costDefinition": null
+  },
+  {
+    "id": "Piazza Fiera",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Piazza Fiera",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "Piazza Fiera",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 1,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.064518,
+      11.123329
+    ],
+    "costDefinition": null
+  },
+  {
+    "id": "Piazza Dante",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Piazza Dante",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "Piazza Dante",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 2,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.071546,
+      11.121182
+    ],
+    "costDefinition": null
+  },
+  {
+    "id": "Muse",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Muse",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "Muse",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 1,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.061232,
+      11.115752
+    ],
+    "costDefinition": null
+  },
+  {
+    "id": "Povo",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Povo",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "Povo",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 1,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.065452,
+      11.154308
+    ],
+    "costDefinition": null
+  },
+  {
+    "id": "Via Segantini",
+    "type": "CAR-RENTAL",
+    "stationId": {
+      "id": "Via Segantini",
+      "extra": null,
+      "agencyId": "CAR_SHARING_TRENTO"
+    },
+    "fullName": "Federation of Co-operation (Via Segantini)",
+    "parkAndRide": false,
+    "fixedCost": null,
+    "availableSharingVehicles": 3,
+    "posts": -1,
+    "monitored": false,
+    "position": [
+      46.074659,
+      11.121764
+    ],
+    "costDefinition": null
+  }
+]

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<stations lastUpdate="1342443815555" version="2.0">
+	<!-- CAR PARKINGS STATIONS -->
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Park Magazol</id>
+		<fullName>Via Magazol - Rovereto</fullName>
+		<lat>45.89976680932436</lat>
+		<lon>11.038395166397095</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>30</posts>
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Brione</id>
+		<fullName>Piazza della Pace - Via L. Perosi - Rovereto</fullName>
+		<lat>45.90403815286093</lat>
+		<lon>11.044092178344727</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>102</posts>
+		<fixedCost>0.30</fixedCost>
+		<costDefinition>€. 0,30/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Ex Manifattura</id>
+		<fullName>Viale Della Vittoria - Rovereto</fullName>
+		<lat>45.8847996</lat>
+		<lon>11.0236012</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>68</posts>
+		<parkAndRide>true</parkAndRide>
+		<fixedCost>0</fixedCost>
+		<costDefinition>Gratis</costDefinition>		
+	</station>	
+	
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Parcheggio Centro</id>
+		<fullName>Via Alessandro Manzoni - Rovereto</fullName>
+		<lat>45.892242816291905</lat>
+		<lon>11.039151549339294</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>194</posts>
+		<monitored>true</monitored>
+		<fixedCost>0.60</fixedCost>
+		<costDefinition>€. 0,60/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Centro Storico</id>
+		<fullName>Viale dei Colli - Rovereto</fullName>
+		<lat>45.89030611816176</lat>
+		<lon>11.04500412940979</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>143</posts>
+		<monitored>true</monitored>
+		<fixedCost>0.80</fixedCost>
+		<costDefinition>€. 0,80/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>A.S.M.</id>
+		<fullName>Piazzale ex-A.S.M - Via Manzoni - Rovereto</fullName>
+		<lat>45.893593</lat>
+		<lon>11.036507</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>145</posts>
+		<monitored>true</monitored>
+		<fixedCost>0</fixedCost>
+		<costDefinition>Gratis</costDefinition>
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Stazione</id>
+		<fullName>Stazione - Via Via Brigata Acqui - Rovereto</fullName>
+		<lat>45.889441</lat>
+		<lon>11.034458</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>110</posts>
+		<monitored>true</monitored>
+		<fixedCost>0.50</fixedCost>
+		<costDefinition>€. 0,50/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Mart</id>
+		<fullName>Mart - Via Sticcotta - Rovereto</fullName>
+		<lat>45.894705</lat>
+		<lon>11.044661</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>224</posts>
+		<monitored>true</monitored>
+		<fixedCost>0.80</fixedCost>
+		<costDefinition>€. 0,80/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Stadio</id>
+		<fullName>Stadio - Via Magazol - Rovereto</fullName>
+		<lat>45.900559</lat>
+		<lon>11.03641</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>110</posts>
+		<monitored>false</monitored>
+		<parkAndRide>true</parkAndRide>
+		<fixedCost>0</fixedCost>
+		<costDefinition>Gratis</costDefinition>
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>P.le A.Leoni</id>
+		<fullName>Piazzale Leoni - Via Achille Leoni - Rovereto</fullName>
+		<lat>45.888179</lat>
+		<lon>11.037827</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>370</posts>
+		<monitored>false</monitored>
+		<fixedCost>1.00</fixedCost>
+		<costDefinition>€. 1,00/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_ROVERETO</agencyId>
+		<id>Parcheggio Ronchi</id>
+		<fullName>Via Ronchi - Rovereto</fullName>
+		<lat>45.88138259999999</lat>
+		<lon>11.034560100000022</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-0</sharedVehicles>
+		<posts>65</posts>
+		<fixedCost>0</fixedCost>
+		<costDefinition>Gratis</costDefinition>			
+	</station>	
+
+</stations>

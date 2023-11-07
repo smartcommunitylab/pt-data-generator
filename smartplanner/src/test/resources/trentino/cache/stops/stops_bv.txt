@@ -1,0 +1,21 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+Bolzano_5,Bolzano FS,"Bolzano,Italy",46.496339,11.35878
+Laives_5,Laives FS,"Laives,Italy",46.434722,11.323718
+Bronzolo_5,Bronzolo FS,"Bronzolo,Italy",46.405049,11.31715
+Ora_5,Ora-Auer FS,"Ora-Auer,Italy",46.360953,11.29762
+Egna-Termeno_5,Egna-Termeno FS,"Egna-Termeno,Italy",46.31877,11.256663
+Magre'-Cortaccia_5,Magre'-Cortaccia FS,"Magre'-Cortaccia,Italy",46.28794,11.232595
+Salorno_5,Salorno FS,"Salorno,Italy",46.24592,11.203072
+Mezzocorona_5,Mezzocorona FS,"Mezzocorona,Italy",46.207324,11.128657
+Lavis_5,Lavis FS,"Lavis,Italy",46.144578,11.092672
+Trento_5,Trento FS,"Trento,Italy",46.072933,11.119237
+Rovereto_5,Rovereto FS,"Rovereto,Italy",45.890927,11.033589
+Mori_5,Mori FS,"Mori,Italy",45.861228,11.002593
+Serravalle-all'Adige_5,Serravalle FS,"Serravalle all'Adige,Italy",45.808246,11.015097
+Ala_5,Ala FS,"Ala,Italy",45.75932,10.996274
+Avio_5,Avio FS,"Avio,Italy",45.734141,10.956942
+Borghetto-sull'Adige_5,Borghetto FS,"Borghetto sull'Adige,Italy",45.696766,10.927137
+Peri_5,Peri FS,"Peri,Italy",45.659246,10.900658
+Dolce'_5,Dolce' FS,"Dolce',Italy",45.601567,10.850651
+Domegliara-S.A_5,Domegliara-S.Ambrogio FS,"Domegliara-S.Ambrogio,Italy",45.519962,10.820439
+Verona-PortaNuova_5,VeronaPN FS,"VeronaPN,Italy",45.429314,10.982369

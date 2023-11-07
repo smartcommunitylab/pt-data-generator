@@ -1,0 +1,39 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,wheelchair_boarding
+MARILLEVA,Marilleva Ferrovia,"MARILLEVA,Italy",46.315086,10.812002,1
+Piano,Piano Ferrovia,"Piano,Italy",46.317484,10.826479,1
+Daolasa,Daolasa Ferrovia,"Daolasa,Italy",46.319603,10.836543,1
+Mastellina,Mastellina Ferrovia,"Mastellina,Italy",46.322214,10.847695,1
+DIMARO,Dimaro Ferrovia,"DIMARO,Italy",46.325519,10.874963,1
+Monclassico,Monclassico Ferrovia,"Monclassico,Italy",46.332505,10.889487,1
+Croviana,Croviana Ferrovia,"Croviana,Itlay",46.343827,10.907265,1
+MALE,Male Ferrovia,"MALE,Italy",46.352970,10.916541,1
+TERZOLAS,Terzolas Ferrovia,"TERZOLAS,Italy",46.358048,10.925673,1
+CALDES,Caldes Ferrovia,"CALDES,Italy",46.366097,10.943255,1
+Cavizzana,Cavizzana Ferrovia,"Cavizzana,Italy",46.37159,10.952063,1
+Cassana,Cassana Ferrovia,"Cassana,Italy",46.375751,10.960517,1
+Tozzaga,Tozzaga Ferrovia,"Tozzaga,Italy",46.382137,10.970957,1
+Bozzana,Bozzana Ferrovia,"Bozzana,Italy",46.388653,10.988424,1
+MOSTIZZOLO,Mostizzolo Ferrovia,"MOSTIZZOLO,Italy",46.393921,11.011813,1
+Cles_Polo_Scolastico,Cles Polo Scolastico Ferrovia,"Cles Polo Scolastico,Italy",46.369937,11.033782,1
+CLES,Cles Ferrovia,"CLES,Italy",46.364512,11.038948,1
+TASSULLO,Tassullo Ferrovia,"TASSULO,Italy",46.340756,11.053839,1
+DERMULO,Dermulo Ferrovia,"DERMULO,Italy",46.337276,11.063181,1
+TAIO,Taio Ferrovia,"TAIO,Italy",46.322073,11.067701,1
+Segno,Segno Ferrovia,"Segno,Italy",46.304576,11.071499,1
+MOLLARO,Mollaro Ferrovia,"MOLLARO,Italy",46.294319,11.068075,1
+Denno,Denno Ferrovia,"Denno,Italy",46.263798,11.060736,1
+Crescino,Crescino Ferrovia,"Crescino,Italy",46.241882,11.058474,1
+Masi_di_Vigo,Masi di Vigo Ferrovia,"Masi di Vigo,Italy",46.238365,11.062753,1
+MEZZOLOMBARDO,Mezzolombardo Ferrovia,"MEZZOLOMBARDO",46.213438,11.093224,1
+MEZZOCORONA_Borgata,Mezzocorona Borgata Ferrovia,"MEZZOCORONA Borgata,Italy",46.214268,11.119076,1
+MEZZOCORONA_Ferrovia,Mezzocorona Ferrovia,"MEZZOCORONA,Italy",46.206333,11.127395,1
+GRUMO_S_MICHELE,Grumo S.Michele Ferrovia,"S.MICHELE,Italy",46.193859,11.127933,1
+NAVE_S_FELICE,Nave S.Felice Ferrovia,"NAVIS S.FELICE, Italy",46.166904,11.113050,1
+ZAMBANA,Zambana Ferrovia,"ZAMBANA,Italy",46.148087,11.099446,1
+LAVIS,Lavis Staz.Ftm,"Via Paganella 4,Lavis",46.137886,11.108973,1
+Lamar,Lamar Ferrovia,"Lamar,Italy",46.125515,11.107385,1
+Zona_Industriale,Spini Zona Industriale Ferrovia,"Spini Zona Industriale, Trento Italy",46.118256,11.104982,1
+GARDOLO,Gardolo Ferrovia,"Gardolo,Italy",46.107257,11.104512,1
+TRENTO_NORD,Trento Nord,"Zona Comm.le,Trento",46.090123,11.112963,1
+TRENTO_STATION_FTM,Trento Staz.Ftm,"Piazza Dante,Trento",46.074198,11.12142,1
+MEZZANA,Mezzana Ferrovia,"Mezzana Staz.Ftm",46.314136,10.796333,1

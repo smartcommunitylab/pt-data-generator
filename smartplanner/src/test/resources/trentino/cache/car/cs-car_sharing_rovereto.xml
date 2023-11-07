@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<stations lastUpdate="1342443815555" version="2.0">
+	<station>
+	<agencyId>CAR_SHARING_ROVERETO</agencyId>
+		<id>Podes</id>
+		<fullName>Podes</fullName>
+		<lat>45.886486</lat>
+		<lon>11.045700</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+	<station>
+	<agencyId>CAR_SHARING_ROVERETO</agencyId>
+		<id>Rosimini</id>
+		<fullName>Rosimini</fullName>
+		<lat>45.890919</lat>
+		<lon>11.037467</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+	<station>
+	<agencyId>CAR_SHARING_ROVERETO</agencyId>
+		<id>Manif</id>
+		<fullName>Manifattura</fullName>
+		<lat>45.883929</lat>
+		<lon>11.021216</lon>
+		<type>CAR-RENTAL</type>
+		<sharedVehicles>1</sharedVehicles>
+	</station>
+</stations>

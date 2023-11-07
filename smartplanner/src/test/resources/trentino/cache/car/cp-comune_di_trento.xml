@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<stations lastUpdate="1342443815555" version="2.0">
+	<!-- CAR PARKINGS STATIONS -->
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>via Roggia Grande,16 - Trento</id>
+		<fullName>via Roggia Grande,16 - Trento</fullName>
+		<lat>46.0676</lat>
+		<lon>11.1247</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>100</posts>
+		<fixedCost>2.80</fixedCost>
+		<costDefinition>Tariffa : 2,80 € /ora (prima ora) – 2,20€ prima mezz'ora (max 19 €/giorno)</costDefinition>		
+	</station>	
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>via Torre Verde, 40 - Trento</id>
+		<fullName>via Torre Verde, 40 - Trento</fullName>
+		<lat>46.071129</lat>
+		<lon> 11.123749</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>60</posts>
+		<fixedCost>2.30</fixedCost>
+		<costDefinition>Tariffa : 2,30 €/h (prima ora) – 2,00 €/h (a seguire) - max 16 €/ giorno</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>P7</id>
+		<fullName>Piazzale Roberto da Sanseverino - Trento</fullName>
+		<lat>46.0657</lat>
+		<lon>11.1145</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>342</posts>
+		<monitored>true</monitored>
+		<fixedCost>0</fixedCost>
+		<costDefinition>Gratis</costDefinition>			
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>P3</id>
+		<fullName>via F. Petrarca, 1/5 - Trento</fullName>
+		<lat>46.073612</lat>
+		<lon>11.124208</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>669</posts>
+		<monitored>true</monitored>
+		<fixedCost>1.20</fixedCost>
+		<costDefinition>Tariffa diurna: 1,20 €/ora (8.00 - 19.30). Tariffa notturna e festiva: 0,60 €/ora (19.30 - 8.00; domeniche e festivi 0 – 24)</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>P2</id>
+		<fullName>via G. Segantini, 7 - Trento</fullName>
+		<lat>46.073551</lat>
+		<lon>11.121393</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>480</posts>
+		<monitored>true</monitored>
+		<posts>500</posts>
+		<fixedCost>1.10</fixedCost>
+		<costDefinition>Tariffa : 1,10€/ora – 0,70 € mezz'ora (max 14€ /giorno)</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>P4</id>
+		<fullName>Piazza Fiera - Trento</fullName>
+		<lat>46.065635</lat>
+		<lon>11.125044</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>460</posts>
+		<monitored>true</monitored>
+		<fixedCost>2.10</fixedCost>
+		<costDefinition>Tariffa diurna (7.00 – 20.00): 2,10 € /ora (prima ora); 0,80 € /ora (ogni ulteriore frazione da 20 minuti). Tariffa notturna e festiva: 0,80 € /ora. Tariffa massima giornaliera: 18.00 €</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>P5</id>
+		<fullName>Piazza Ezio Mosna, 1/A - Trento</fullName>
+		<lat>46.067219</lat>
+		<lon>11.115151</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>200</posts>
+		<monitored>true</monitored>
+		<fixedCost>0.80</fixedCost>
+		<costDefinition>Tariffa diurna: 0,80 €/ora (7-12; 14-20.30); gratis dalle 12 alle 14 e sabato pom. Tariffa notturna e festiva: 3,00 €/notte (20.30 – 7.00)</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>Povo</id>
+		<fullName>via alla Cascata Povo - Trento</fullName>
+		<lat>46.0669</lat>
+		<lon>11.1529</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>5</posts>
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>via valentina Zambra - Trento</id>
+		<fullName>via valentina Zambra - Trento</fullName>
+		<lat>46.091592</lat>
+		<lon>11.116965</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>170</posts>
+		<fixedCost>1.00</fixedCost>
+		<costDefinition>1,00 € / ingresso</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>P6</id>
+		<fullName>via Bomporto - Trento</fullName>
+		<lat>46.0650</lat>
+		<lon>11.1163</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>250</posts>
+		<monitored>true</monitored>
+		<fixedCost>1.00</fixedCost>
+		<costDefinition>Tariffa : 1,00 €/h - max 5,00 €/giorno</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>via Maccani - Trento</id>
+		<fullName>via Maccani - Trento</fullName>
+		<lat>46.080279</lat>
+		<lon>11.117952</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>64</posts>
+		<fixedCost>1.00</fixedCost>
+		<costDefinition>€. 1,00/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>via Fersina - Trento</id>
+		<fullName>via Fersina - Trento</fullName>
+		<lat>46.045588</lat>
+		<lon>11.120811</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>350</posts>
+		<parkAndRide>true</parkAndRide>
+		<fixedCost>0</fixedCost>
+		<costDefinition>Gratis</costDefinition>				
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>P1</id>
+		<fullName>Lung'Adige Monte Grappa - Trento</fullName>
+		<lat>46.0691</lat>
+		<lon>11.1162</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>300</posts>
+		<monitored>true</monitored>
+		<fixedCost>1.00</fixedCost>
+		<costDefinition>€. 1,00/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>Circonvallazione Nuova, Ponte S. Lorenzo - Trento</id>
+		<fullName>Circonvallazione Nuova, Ponte S. Lorenzo - Trento</fullName>
+		<lat>46.0700</lat>
+		<lon>11.1139</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>60</posts>
+		<fixedCost>1.00</fixedCost>
+		<costDefinition>€. 1,00/ora</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>via Asiago, Stazione FS Villazzano - Trento</id>
+		<fullName>via Asiago, Stazione FS Villazzano - Trento</fullName>
+		<lat>46.0448</lat>
+		<lon>11.1393</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>96</posts>
+		<parkAndRide>true</parkAndRide>		
+		<fixedCost>0.0</fixedCost>
+		<costDefinition>Gratis</costDefinition>		
+	</station>
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>ex-Zuffo - Trento</id>
+		<fullName>ex-Zuffo - Trento</fullName>
+		<lat>46.076342</lat>
+		<lon>11.111087</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>1050</posts>
+		<parkAndRide>true</parkAndRide>
+		<fixedCost>0.0</fixedCost>
+		<costDefinition>Gratis</costDefinition>		
+	</station>	
+	<station>
+		<agencyId>COMUNE_DI_TRENTO</agencyId>
+		<id>Monte Baldo - Trento</id>
+		<fullName>Monte Baldo - Trento</fullName>
+		<lat>46.057374</lat>
+		<lon>11.112651</lon>
+		<type>CAR-PARKING</type>
+		<sharedVehicles>-1</sharedVehicles>
+		<posts>295</posts>
+		<parkAndRide>true</parkAndRide>
+		<fixedCost>0.0</fixedCost>
+		<costDefinition>Gratis</costDefinition>		
+	</station>		
+</stations>

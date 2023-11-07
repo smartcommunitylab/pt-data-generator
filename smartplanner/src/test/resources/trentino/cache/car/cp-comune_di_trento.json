@@ -1,0 +1,308 @@
+[ {
+  "id" : "Via Roggia Grande, 16",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Via Roggia Grande, 16",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Via Roggia Grande",
+  "fullName" : "Via Roggia Grande, 16",
+  "parkAndRide" : false,
+  "fixedCost" : "2.80",
+  "availableSharingVehicles" : -1,
+  "posts" : 100,
+  "monitored" : false,
+  "position" : [ 46.0676, 11.1247 ],
+  "costDefinition" : "Tariffa : 2,80 € /ora (prima ora) – 2,20€ prima mezz'ora (max 19 €/giorno)"
+}, {
+  "id" : "Via Torre Verde, 40",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Via Torre Verde, 40",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Via Torre Verde",
+  "fullName" : "Via Torre Verde, 40",
+  "parkAndRide" : false,
+  "fixedCost" : "2.30",
+  "availableSharingVehicles" : -1,
+  "posts" : 60,
+  "monitored" : false,
+  "position" : [ 46.071129, 11.123749 ],
+  "costDefinition" : "Tariffa : 2,30 €/h (prima ora) – 2,00 €/h (a seguire) - max 16 €/ giorno"
+}, {
+  "id" : "P7",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P7",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Piazzale Sanseverino - P7",
+  "fullName" : "Piazzale Roberto da Sanseverino",
+  "parkAndRide" : false,
+  "fixedCost" : "0",
+  "availableSharingVehicles" : -1,
+  "posts" : 342,
+  "monitored" : true,
+  "position" : [ 46.0657, 11.1145 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "P3",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P3",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Autosilo Buonconsiglio - P3",
+  "fullName" : "Via F. Petrarca, 1/5",
+  "parkAndRide" : false,
+  "fixedCost" : "1.20",
+  "availableSharingVehicles" : -1,
+  "posts" : 669,
+  "monitored" : true,
+  "position" : [ 46.073612, 11.124208 ],
+  "costDefinition" : "Tariffa diurna: 1,20 €/ora (8.00 - 19.30). Tariffa notturna e festiva: 0,60 €/ora (19.30 - 8.00; domeniche e festivi 0 – 24)"
+}, {
+  "id" : "P2",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P2",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Centro Europa - P2",
+  "fullName" : "Via G. Segantini, 7",
+  "parkAndRide" : false,
+  "fixedCost" : "1.10",
+  "availableSharingVehicles" : -1,
+  "posts" : 480,
+  "monitored" : true,
+  "position" : [ 46.073551, 11.121393 ],
+  "costDefinition" : "Tariffa : 1,10€/ora – 0,70 € mezz'ora (max 14€ /giorno)"
+}, {
+  "id" : "P4",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P4",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Piazza Fiera - P4",
+  "fullName" : "Piazza Fiera",
+  "parkAndRide" : false,
+  "fixedCost" : "2.10",
+  "availableSharingVehicles" : -1,
+  "posts" : 460,
+  "monitored" : true,
+  "position" : [ 46.065635, 11.125044 ],
+  "costDefinition" : "Tariffa diurna (7.00 – 20.00): 2,10 € /ora (prima ora); 0,80 € /ora (ogni ulteriore frazione da 20 minuti). Tariffa notturna e festiva: 0,80 € /ora. Tariffa massima giornaliera: 18.00 €"
+}, {
+  "id" : "P5",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P5",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Duomo - P5",
+  "fullName" : "Piazza Ezio Mosna, 1/A",
+  "parkAndRide" : false,
+  "fixedCost" : "0.80",
+  "availableSharingVehicles" : -1,
+  "posts" : 200,
+  "monitored" : true,
+  "position" : [ 46.067219, 11.115151 ],
+  "costDefinition" : "Tariffa diurna: 0,80 €/ora (7-12; 14-20.30); gratis dalle 12 alle 14 e sabato pom. Tariffa notturna e festiva: 3,00 €/notte (20.30 – 7.00)"
+},{
+  "id" : "Via Valentina Zambra",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Via Valentina Zambra",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Via Valentina Zambra",
+  "fullName" : "Via valentina Zambra",
+  "parkAndRide" : false,
+  "fixedCost" : "1.00",
+  "availableSharingVehicles" : -1,
+  "posts" : 170,
+  "monitored" : false,
+  "position" : [ 46.091592, 11.116965 ],
+  "costDefinition" : "1,00 € / ingresso"
+}, {
+  "id" : "P6",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P6",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "CTE via Bomporto - P6",
+  "fullName" : "Via Bomporto",
+  "parkAndRide" : false,
+  "fixedCost" : "1.00",
+  "availableSharingVehicles" : -1,
+  "posts" : 250,
+  "monitored" : true,
+  "position" : [ 46.065, 11.1163 ],
+  "costDefinition" : "Tariffa : 1,00 €/h - max 5,00 €/giorno"
+}, {
+  "id" : "Via Maccani",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Via Maccani",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Via Maccani",
+  "fullName" : "Via Maccani",
+  "parkAndRide" : false,
+  "fixedCost" : "1.00",
+  "availableSharingVehicles" : -1,
+  "posts" : 64,
+  "monitored" : false,
+  "position" : [ 46.080279, 11.117952 ],
+  "costDefinition" : "€. 1,00/ora"
+}, {
+  "id" : "P1",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "P1",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Area ex SIT via Canestrini - P1",
+  "fullName" : "Lung'Adige Monte Grappa",
+  "parkAndRide" : false,
+  "fixedCost" : "1.00",
+  "availableSharingVehicles" : -1,
+  "posts" : 300,
+  "monitored" : true,
+  "position" : [ 46.0691, 11.1162 ],
+  "costDefinition" : "€. 1,00/ora"
+}, {
+  "id" : "Circonvallazione Nuova, Ponte S. Lorenzo",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Circonvallazione Nuova, Ponte S. Lorenzo",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : ""Circonvallazione Nuova, Ponte S. Lorenzo",
+  "fullName" : "Circonvallazione Nuova, Ponte S. Lorenzo",
+  "parkAndRide" : false,
+  "fixedCost" : "1.00",
+  "availableSharingVehicles" : -1,
+  "posts" : 60,
+  "monitored" : false,
+  "position" : [ 46.07, 11.1139 ],
+  "costDefinition" : "€. 1,00/ora"
+}, {
+  "id" : "Via Asiago, Stazione FS Villazzano",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Via Asiago, Stazione FS Villazzano",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Via Asiago, Stazione FS Villazzano",
+  "fullName" : "Via Asiago, Stazione FS Villazzano",
+  "parkAndRide" : true,
+  "fixedCost" : "0.0",
+  "availableSharingVehicles" : -1,
+  "posts" : 96,
+  "monitored" : false,
+  "position" : [ 46.0448, 11.1393 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "Ex-Zuffo",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Ex-Zuffo",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Ex-Zuffo",
+  "fullName" : "ex-Zuffo",
+  "parkAndRide" : true,
+  "fixedCost" : "0.0",
+  "availableSharingVehicles" : -1,
+  "posts" : 1050,
+  "monitored" : false,
+  "position" : [ 46.076342, 11.111087 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "Monte Baldo",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Monte Baldo",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Monte Baldo",
+  "fullName" : "Monte Baldo",
+  "parkAndRide" : true,
+  "fixedCost" : "0.0",
+  "availableSharingVehicles" : -1,
+  "posts" : 295,
+  "monitored" : false,
+  "position" : [ 46.057374, 11.112651 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "Via Lidorno",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Via Lidorno",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Via Lidorno",
+  "fullName" : "Via Lidorno",
+  "parkAndRide" : true,
+  "fixedCost" : "0.0",
+  "availableSharingVehicles" : -1,
+  "posts" : 159,
+  "monitored" : false,
+  "position" : [ 46.03366, 11.125592 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "Ghiaie via Fersina",
+  "type" : "CAR-PARKING",
+  "stationId" : {
+    "id" : "Ghiaie via Fersina",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Ghiaie via Fersina",
+  "fullName" : "Via Fersina",
+  "parkAndRide" : true,
+  "fixedCost" : "0.0",
+  "availableSharingVehicles" : -1,
+  "posts" : 351,
+  "monitored" : false,
+  "position" : [ 46.038424, 11.124129 ],
+  "costDefinition" : "Gratis"
+}, {
+  "id" : "Via Ragazzi del '99",
+  "type" : "CAR-PARKIN
+  "stationId" : {
+    "id" : "Via Ragazzi del '99",
+    "extra" : null,
+    "agencyId" : "COMUNE_DI_TRENTO"
+  },
+  "stationName" : "Via Ragazzi del '99",
+  "fullName" : "Via Ragazzi del '99",
+  "parkAndRide" : true,
+  "fixedCost" : "0.0",
+  "availableSharingVehicles" : -1,
+  "posts" : 145,
+  "monitored" : false,
+  "position" : [ 46.034658, 11.127158 ],
+  "costDefinition" : "Gratis"
+}
+ ]

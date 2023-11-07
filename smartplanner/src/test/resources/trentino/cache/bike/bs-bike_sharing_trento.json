@@ -1,0 +1,285 @@
+[{
+	"id": "Aeroporto - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Aeroporto - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Lidorno / Aeroporto Caproni",
+	"availableSharingVehicles": 8,
+	"posts": 8,
+	"monitored": true,
+	"position": [46.01983619754026,
+	11.127080654939277]
+},
+{
+	"id": "Azienda Sanitaria - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Azienda Sanitaria - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via De Gasperi - Lato Trento Frutta",
+	"availableSharingVehicles": 18,
+	"posts": 18,
+	"monitored": true,
+	"position": [46.044433415996814,
+	11.12804971230321]
+},
+{
+	"id": "Bezzi - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Bezzi - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Bezzi / Via Vittorio Veneto",
+	"availableSharingVehicles": 9,
+	"posts": 9,
+	"monitored": true,
+	"position": [46.058020904033015,
+	11.119315767528406]
+},
+{
+	"id": "Biblioteca - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Biblioteca - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Alfieri \\/ Via Torre Vanga",
+	"availableSharingVehicles": 24,
+	"posts": 24,
+	"monitored": true,
+	"position": [46.07043395910254,
+	11.121399842327946]
+},
+{
+	"id": "Bren Center - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Bren Center - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Guardini fr. civ. 75",
+	"availableSharingVehicles": 18,
+	"posts": 18,
+	"monitored": true,
+	"position": [46.094653868146885,
+	11.117693389024225]
+},
+{
+	"id": "Centro Santa Chiara - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Centro Santa Chiara - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via S. Croce 78",
+	"availableSharingVehicles": 18,
+	"posts": 18,
+	"monitored": true,
+	"position": [46.06345393738132,
+	11.12375366752849]
+},
+{
+	"id": "Cimitero - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Cimitero - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "via Madruzzo / via Rosmini",
+	"availableSharingVehicles": 10,
+	"posts": 10,
+	"monitored": true,
+	"position": [46.063653753791996,
+	11.119203004368615]
+},
+{
+	"id": "Gardolo - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Gardolo - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via IV Novembre / Piscina",
+	"availableSharingVehicles": 12,
+	"posts": 12,
+	"monitored": true,
+	"position": [46.10407094472173,
+	11.112932473016372]
+},
+{
+	"id": "Lidorno - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Lidorno - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Lidorno / Park Trento Sud",
+	"availableSharingVehicles": 12,
+	"posts": 12,
+	"monitored": true,
+	"position": [46.03316279422745,
+	11.126252122229062]
+},
+{
+	"id": "Muse - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Muse - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Corso del Lavoro e della Scienza",
+	"availableSharingVehicles": 12,
+	"posts": 12,
+	"monitored": true,
+	"position": [46.061127545687704,
+	11.115828129430383]
+},
+{
+	"id": "Piazza della Mostra - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Piazza della Mostra - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "P.za della Mostra 30",
+	"availableSharingVehicles": 12,
+	"posts": 12,
+	"monitored": true,
+	"position": [46.071784324082046,
+	11.125761136176266]
+},
+{
+	"id": "Piazza di Centa - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Piazza di Centa - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "P.le di Centa \\/ Via Vannetti",
+	"availableSharingVehicles": 12,
+	"posts": 12,
+	"monitored": true,
+	"position": [46.07538723420181,
+	11.12382177686004]
+},
+{
+	"id": "Piazza Venezia - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Piazza Venezia - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Grazioli \\/ P.za Venezia",
+	"availableSharingVehicles": 24,
+	"posts": 24,
+	"monitored": true,
+	"position": [46.06753791402558,
+	11.126987115869156]
+},
+{
+	"id": "Piscina - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Piscina - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Fogazzaro \\/ Via Gocciadoro",
+	"availableSharingVehicles": 24,
+	"posts": 24,
+	"monitored": true,
+	"position": [46.05613921850254,
+	11.131125179167952]
+},
+{
+	"id": "Stazione Autocorriere - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Stazione Autocorriere - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Pozzo \\/ Via Torre Vanga",
+	"availableSharingVehicles": 12,
+	"posts": 12,
+	"monitored": true,
+	"position": [46.07023563810641,
+	11.119849430688419]
+},
+{
+	"id": "Stazione FFSS - Ospedale - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Stazione FFSS - Ospedale - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Gocciadoro - Staz. S. Chiara",
+	"availableSharingVehicles": 12,
+	"posts": 12,
+	"monitored": true,
+	"position": [46.054586705531555,
+	11.135349258821861]
+},
+{
+	"id": "Top Center - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Top Center - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Pranzelores \\/ Via Giuseppe Gilli",
+	"availableSharingVehicles": 24,
+	"posts": 24,
+	"monitored": true,
+	"position": [46.09011031912936,
+	11.11851463299638]
+},
+{
+	"id": "Università - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Università - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "Via Rosmini 50 - Università",
+	"availableSharingVehicles": 18,
+	"posts": 18,
+	"monitored": true,
+	"position": [46.06632943181332,
+	11.119020308598351]
+},
+{
+	"id": "Vannetti - Trento",
+	"type": "BIKE-RENTAL",
+	"stationId": {
+		"id": "Vannetti - Trento",
+		"extra": null,
+		"agencyId": "BIKE_SHARING_TOBIKE_TRENTO"
+	},
+	"fullName": "piazza Dante / via Vannetti",
+	"availableSharingVehicles": 14,
+	"posts": 14,
+	"monitored": true,
+	"position": [46.072996732945235,
+	11.121911281089751]
+}]

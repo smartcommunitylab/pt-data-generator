@@ -1,0 +1,25 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+Trento_6,Trento FS,"Trento,Italy",46.071898,11.11957
+S.Chiara_6,S.Chiara FS,"S.Chiara ospedale,Trento,Italy",46.053682,11.136178
+S.Bartolameo_6,S.Bartolameo FS,"S.Bartolameo,Trento,Italy",46.047588,11.135021
+Villazzano_6,Villazzano FS,"Villazzano di Trento,Italy",46.045132,11.139613
+Povo-Mesiano_6,Povo Mesiano FS,"Povo Mesiano,Italy",46.065813,11.142631
+Pergine-Valsugana_6,Pergine Valsugana FS,"Pergine Valsugana,Italy",46.063249,11.231182
+S.Cristoforo_6,S.Cristoforo al Lago FS,"S.Cristoforo al Lago,Italy",46.039131,11.233413
+Calceranica_6,Calceranica FS,"Calceranica,Italy",46.007457,11.240478
+Caldonazzo_6,Caldonazzo FS,"Caldonazzo,Italy",45.997565,11.264366
+LevicoTerme_6,Levico Terme FS,"Levico Terme,Italy",46.005748,11.304835
+Roncegno_6,Roncegno B.M FS,"Roncegno B.M,Italy",46.036152,11.399217
+Borgo-Valsugana-Centro_6,Borgo Valsugana Centro FS,"Borgo Valsugana Centro,Italy",46.05112,11.454116
+Borgo-Valsugana-Est_6,Borgo Valsugana Est FS,"Borgo Valsugana Est,Italy",46.051791,11.463
+Strigno_6,Strigno FS,"Strigno,Italy",46.050934,11.514487
+Grigno_6,Grigno FS,"Grigno,Italy",46.014817,11.635251
+Tezze-di-Grigno_6,Tezze di Grigno FS,"Tezze di Grigno,Italy",45.990596,11.669616
+Primolano_6,Primolano FS,"Primolano,Italy",45.965598,11.701749
+Cismon-del-Grappa_6,Cismon del Grappa FS,"Cismon del Grappa,Italy",45.919348,11.72915
+S.Marino_6,S.Marino FS,"S.Marino,Italy",45.898834,11.692554
+Carpane'-Valstagna_6,Carpane' Valstagna FS,"Carpane' Valstagna,Italy",45.85998,11.661462
+S.Nazario_6,S.Nazario FS,"S.Nazario,Italy",45.838141,11.691703
+Solagna_6,Solagna FS,"Solagna,Italy",45.814537,11.721892
+Bassano-del-Grappa_6,Bassano del Grappa FS,"Bassano del Grappa,Italy",45.76667,11.74166
+Bolzano_6,Bolzano FS,"Bolzano,Italy",46.496339,11.35878
