@@ -3,7 +3,14 @@ The guideline aims to provide step by step execution of tools required for the g
 ```
 https://github.com/smartcommunitylab/pt-data-generator/releases/download/v1.0.0/cache-generator.zip
 ```
-There are four major tools required in this process which are provided inside a docker container image. The output of this tutorial are the zipped cache files.
+There are four major tools required in this process which are provided inside a docker container image.
+```
+CSV Generator (Perl script) 	
+Annotated Timetables Generator (Java executable jar) 	
+OpenTripPlanner (Java executable jar) 	
+Smart Planner (Java executable jar).
+```
+The output of this tutorial are the zipped cache files.
 ```
 routesdb_trento.zip
 routesdb_trento_extended.zip
