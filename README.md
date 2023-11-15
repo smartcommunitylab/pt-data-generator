@@ -10,5 +10,6 @@ routesdb_trento_extended.zip
 ```
 The files serve as cache for 'La Mia Trento' application. The complete tutorial can be found here
 ```
+https://github.com/smartcommunitylab/pt-data-generator/blob/main/docs/mobility-cache-generation-guidelines.pdf
 ```
 
