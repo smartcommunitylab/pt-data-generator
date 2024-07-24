@@ -13,18 +13,6 @@ publicTransport:
      specificProperties:
        dateFrom: 02/02/15
        dateTo: 09/06/15
-  roveretoUrban:
-    agencyId: 16
-    type: bus
-    specificProperties:
-      dateFrom: 02/02/15
-      dateTo: 09/06/15
-  extraUrban:
-    agencyId: 17
-    type: bus
-    specificProperties:
-      dateFrom: 02/02/15
-      dateTo: 09/06/15
   bolzanoVerona:
     agencyId: 5
     type: train
@@ -39,27 +27,7 @@ publicTransport:
     agencyId: 6
     type: train
     specificProperties:
-      routeIds: TB_R2_R,TB_R2_G
-  folgariaTrenino:
-    agencyId: 7
-    type: train
-  folgariaBus100:
-    agencyId: 8
-    type: bus
-  folgariaLV:
-    agencyId: 9
-    type: bus
-  folgariaLR:
-    agencyId: 13
-    type: bus
-  folgariaLB:
-    agencyId: 11
-    type: bus
-  lavaroneTrenino:
-    agencyId: 14
-    type: train
-    
-    
+      routeIds: TB_R2_R,TB_R2_G    
 carParking:
   COMUNE_DI_TRENTO:
     agencyId: comune
@@ -115,6 +83,34 @@ bikeSharing:
       validity: 1
       notification-threshold: 5
     filePath: /cache/bike/bs-bike_sharing_tobike_pergine_valsugana.json
+  BIKE_SHARING_TOBIKE_LAVIS:
+    agencyId: comune
+    region: LAVIS
+    specificProperties:
+      validity: 1
+      notification-threshold: 5
+    filePath: /cache/bike/bs-bike_sharing_lavis.json
+  BIKE_SHARING_TOBIKE_MEZZOCORONA:
+    agencyId: comune
+    region: MEZZOCORONA
+    specificProperties:
+      validity: 1
+      notification-threshold: 5
+    filePath: /cache/bike/bs-bike_sharing_mezzocorona.json
+  BIKE_SHARING_TOBIKE_MEZZOLOMBARDO:
+    agencyId: comune
+    region: MEZZOLOMBARDO
+    specificProperties:
+      validity: 1
+      notification-threshold: 5
+    filePath: /cache/bike/bs-bike_sharing_mezzolombardo.json
+  BIKE_SHARING_TOBIKE_SAN_MICHELE_ALL_ADIGE:
+    agencyId: comune
+    region: SAN_MICHELE_ALL_ADIGE
+    specificProperties:
+      validity: 1
+      notification-threshold: 5
+    filePath: /cache/bike/bs-bike_sharing_san_michele_all_adige.json
     
 areaData:
   comune-trento:
